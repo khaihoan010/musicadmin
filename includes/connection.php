@@ -16,10 +16,10 @@
 	}else{
 	    
 		//local live 
-		DEFINE ('DB_USER', 'thivapro_tamilaudiopro_new');
-		DEFINE ('DB_PASSWORD', '$[J71.a%yFKW');
+		DEFINE ('DB_USER', 'movieapp');
+		DEFINE ('DB_PASSWORD', 'adminMovie@#001');
 		DEFINE ('DB_HOST', 'localhost'); //host name depends on server
-		DEFINE ('DB_NAME', 'thivapro_tamilaudiopro_new');
+		DEFINE ('DB_NAME', 'music');
 	}
 
 	
